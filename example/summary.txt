@@ -1,0 +1,3 @@
+DIP2B_sg692_10x	237
+DIP2B_empty_10x	334
+others	538

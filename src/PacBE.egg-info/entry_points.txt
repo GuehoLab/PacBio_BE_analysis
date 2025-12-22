@@ -1,0 +1,3 @@
+[console_scripts]
+PacBe_demultiplex = PacBe_demultiplex:main
+PacBe_organize_data = PacBe_organize_data:main
