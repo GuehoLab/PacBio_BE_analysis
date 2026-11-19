@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1120460111.svg)](https://doi.org/10.5281/zenodo.24380036)
+
 # PacBio_BE_analysis
 
 This pipeline provides tools for demultiplexing PacBio HiFi reads, analyzing mutations with CRISPRlungo, and visualizing substitution patterns.
